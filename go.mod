@@ -1,1 +1,1 @@
-module github.com/rzimmerman/keyctl
+module github.com/smoxy-io/keyctl
